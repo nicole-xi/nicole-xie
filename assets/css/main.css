@@ -1945,7 +1945,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(255, 255, 255, 0.55) !important;
+			border-color: #8B6A3D !important;
 		}
 
 			input[type="submit"]:hover:after,
@@ -1988,15 +1988,15 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		border-radius: 0.25em;
-		border: solid 1px rgba(255, 255, 255, 0.15);
-		background: rgba(255, 255, 255, 0.05);
+		border: solid 1px #444444;
+		background: #444444;
 		margin: 0 0 2em 0;
 	}
 
 		.features section {
 			padding: 3.5em 3em 1em 7em ;
 			width: 50%;
-			border-top: solid 1px rgba(255, 255, 255, 0.15);
+			border-top: solid 1px #333333;
 			position: relative;
 		}
 
@@ -2005,7 +2005,7 @@ input, select, textarea {
 			}
 
 			.features section:nth-child(2n) {
-				border-left: solid 1px rgba(255, 255, 255, 0.15);
+				border-left: solid 1px #333333;
 			}
 
 			.features section .icon {
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #444444;
-			background: #312450;
+			background: #D2B48C;
 		}
 
 		select:focus::-ms-value {
@@ -3064,7 +3064,7 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.05);
+			background-color: #333333;
 		}
 
 		.spotlights > section:nth-child(3) {
@@ -3236,7 +3236,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #F8F3E8;
+			background-color: #B79F82;
 		}
 
 		.wrapper.style1 {
@@ -3248,11 +3248,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #BFA88A;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #BFA88A;
 		}
 
 		.wrapper.style3 {
@@ -3260,7 +3260,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #D2B48C;
 		}
 
 		.wrapper.fullscreen {
