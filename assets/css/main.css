@@ -3063,11 +3063,11 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: #333333;
+			background-color: #C19A6B;
 		}
 
 		.spotlights > section:nth-child(3) {
-			background-color: #333333;
+			background-color: #C19A6B;
 		}
 
 		.spotlights > section.inactive > .image:before,
